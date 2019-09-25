@@ -1,2 +1,0 @@
-# tesis.com
-borrador tesis
